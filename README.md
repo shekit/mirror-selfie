@@ -5,6 +5,8 @@ Removing the phone from the notorious mirror selfie using deep learning
 
 ![](no-phone.gif)
 
+[Full Video](https://youtu.be/BXwDPqzWilI)
+
 # How to run
 
 The notebooks were created and run in Google colab. A google colab runtime resets every 12 hours. You can link it to your google drive to help with file persistence.
