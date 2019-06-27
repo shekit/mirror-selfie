@@ -1,4 +1,5 @@
-# Mirror-selfie
+# Mirror Selfie
+
 Removing the phone from the notorious mirror selfie using deep learning
 
 # Demo Video
